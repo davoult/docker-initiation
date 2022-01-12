@@ -68,5 +68,3 @@ Dans cet exercice, nous allons déployer un service Wordpress et le connecter à
   - [ ] Définir via variable d'environnement le nom de la base de données utilisé pour y stocker les données
   - [ ] Vérifier le bon fonctionnement de l'accès web à votre application
   - [ ] Vérifier le bon fonctionnement de l'interaction entre vos services
-
-## 5 - Investigations 
